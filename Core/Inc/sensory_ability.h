@@ -1,0 +1,10 @@
+//
+// Created by JIANG on 2021/11/5.
+//
+
+#ifndef MENTALLY_DISABLED_CAR_SENSORY_ABILITY_H
+#define MENTALLY_DISABLED_CAR_SENSORY_ABILITY_H
+#include "main.h"
+
+extern uint8_t uartByte;
+#endif //MENTALLY_DISABLED_CAR_SENSORY_ABILITY_H
